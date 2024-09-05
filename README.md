@@ -21,7 +21,7 @@ This is a React-based blog application that allows users to create, read, update
 
 Experience the Blog Application in action! Visit our live demo:
 
-[**Blog Application Live Demo**](https://your-demo-link-here.com)
+[**Blog Application Live Demo**](https://blog-app-nu-rose.vercel.app/)
 
 Feel free to explore the features, create sample posts, and test the functionality. The demo showcases the application's responsive design, intuitive user interface, and seamless blog management capabilities.
 
@@ -134,7 +134,7 @@ React Router is used for navigation. The main routes are:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/blog-app.git
+   git clone https://github.com/neeldholiya04/blog-app.git
    cd blog-app
    ```
 
